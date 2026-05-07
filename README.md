@@ -1,9 +1,15 @@
-# 👋 Oi! Eu sou o Felipe Yan
+👋 Oi! Eu sou o Felipe Yan
 
-- 🎓 Estudante de TI  
-- 🤖 Aprendendo automações com **n8n** e **RPA**  
-- 🧠 Curioso por tecnologia e integrações  
-- 🚀 Buscando minha primeira oportunidade na área  
-- 📚 Sempre estudando e evoluindo  
+🎓 Estudante de Tecnologia da Informação apaixonado por automação e desenvolvimento backend.
+
+Atualmente estudando:
+
+⚡ Node.js
+💛 JavaScript
+🤖 n8n e RPA
+🔗 APIs e integrações
+🗄️ SQL e banco de dados
+
+🚀 Em busca da primeira oportunidade para crescer na área de tecnologia e colocar meus conhecimentos em prática.
 
 Obrigado por visitar meu perfil! 😄
