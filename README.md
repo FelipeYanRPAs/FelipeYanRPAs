@@ -6,7 +6,6 @@ Atualmente estudando:
 
 💛 JavaScript
 🤖 n8n e RPA
-🔗 APIs e integrações
 🌐 Redes de Computadores
 
 🚀 Em busca da primeira oportunidade para crescer na área de tecnologia e colocar meus conhecimentos em prática.
